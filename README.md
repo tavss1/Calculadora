@@ -6,7 +6,3 @@ Projeto de uma calculadora simples permitindo as operações de soma, subtraçã
   <img src="calculadora.png" alt="Imagem 1">
   <img src="calculadora1.png" alt="Imagem divisão por 0">
 </div>
-
-.Container{
-    float:left;
-}
