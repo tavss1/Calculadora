@@ -1,0 +1,46 @@
+[22/03/2025 23:39:56] - -------------------------
+[22/03/2025 23:39:56] - Aplicação Iniciada
+[22/03/2025 23:40:08] - Soma, num1=201, num2=12resultado=213
+[22/03/2025 23:40:09] - Subtração, num1=201, num2=12resultado=189
+[22/03/2025 23:40:10] - Multiplicação, num1=201, num2=12resultado=2412
+[22/03/2025 23:40:12] - Divisão, num1=201, num2=12resultado=16,75
+[22/03/2025 23:40:31] - Aplicação Encerrada
+[22/03/2025 23:40:31] - -------------------------
+[22/03/2025 23:45:46] - -------------------------
+[22/03/2025 23:45:46] - Aplicação Iniciada
+[22/03/2025 23:45:56] - Soma, num1=21, num2=3resultado=24
+[22/03/2025 23:45:58] - Subtração, num1=21, num2=3resultado=18
+[22/03/2025 23:46:00] - Multiplicação, num1=21, num2=3resultado=63
+[22/03/2025 23:46:02] - Divisão, num1=21, num2=3resultado=7
+[22/03/2025 23:46:08] - Subtração, num1=21, num2=0resultado=21
+[22/03/2025 23:46:11] - Multiplicação, num1=21, num2=0resultado=0
+[22/03/2025 23:46:14] - Erro de divisão por 0
+[22/03/2025 23:46:16] - Aplicação Encerrada
+[22/03/2025 23:46:16] - -------------------------
+[05/04/2025 14:13:00] - -------------------------
+[05/04/2025 14:13:00] - Aplicação Iniciada
+[05/04/2025 14:13:16] - Subtração, num1=12, num2=12, resultado=0
+[05/04/2025 14:13:17] - Soma, num1=12, num2=12, resultado=24
+[05/04/2025 14:13:18] - Multiplicação, num1=12, num2=12, resultado=144
+[05/04/2025 14:13:18] - Divisão, num1=12, num2=12, resultado=1
+[05/04/2025 14:13:22] - Erro de divisão por 0
+[05/04/2025 14:13:23] - Campos limpos com sucesso.
+[05/04/2025 14:13:23] - Aplicação Encerrada
+[05/04/2025 14:13:23] - -------------------------
+[05/04/2025 14:16:58] - -------------------------
+[05/04/2025 14:16:58] - Aplicação Iniciada
+[05/04/2025 14:17:23] - Soma, num1=12, num2=12, resultado=24
+[05/04/2025 14:17:29] - Soma, num1=12, num2=100000, resultado=100012
+[05/04/2025 14:17:30] - Multiplicação, num1=12, num2=100000, resultado=1200000
+[05/04/2025 14:17:32] - Divisão, num1=12, num2=100000, resultado=0,00012
+[05/04/2025 14:17:33] - Subtração, num1=12, num2=100000, resultado=-99988
+[05/04/2025 14:17:34] - Soma, num1=12, num2=100000, resultado=100012
+[05/04/2025 14:17:39] - Multiplicação, num1=12000, num2=100000, resultado=1200000000
+[05/04/2025 14:17:42] - Subtração, num1=12000, num2=100000, resultado=-88000
+[05/04/2025 14:17:43] - Soma, num1=12000, num2=100000, resultado=112000
+[05/04/2025 14:17:45] - Multiplicação, num1=12000, num2=100000, resultado=1200000000
+[05/04/2025 14:18:05] - Erro de divisão por 0
+[05/04/2025 14:18:06] - Campos limpos com sucesso.
+[05/04/2025 14:18:53] - Erro de divisão por 0
+[05/04/2025 14:19:50] - Aplicação Encerrada
+[05/04/2025 14:19:50] - -------------------------
