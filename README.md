@@ -4,5 +4,5 @@ Projeto de uma calculadora simples permitindo as operações de soma, subtraçã
 ## Visualização
 <div>
   <img src="calculadora.png" alt="Imagem 1">
-  <img src="calculadora1.png" alt="Imagem divisão por 0">
+  <img src="calculadora1.png" alt="Imagem divisão por 0" align=right>
 </div>
